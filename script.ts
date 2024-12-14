@@ -1,4 +1,4 @@
-// Program to recover cNFT
+// Script to recover cNFT
 import {
     Connection,
     Keypair,
